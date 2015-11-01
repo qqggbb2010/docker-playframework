@@ -1,3 +1,3 @@
-# Play Framework 2.2.2
+# Play Framework 2.2.3
 
 Based on image `java:7` to work properly with this version of Play Framework
