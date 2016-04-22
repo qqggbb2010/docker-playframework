@@ -1,6 +1,6 @@
 FROM java:7
 
-ENV PLAY_VERSION 2.2.6
+ENV PLAY_VERSION 2.5.2
 
 MAINTAINER Jarle Fosen <jarlefosen@gmail.com>
 
